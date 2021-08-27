@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "VYC24T6WJ3.ltd.huofu.huofu",
+                "paths": [ "/app/*" ]
+            }
+        ]
+    }
+}

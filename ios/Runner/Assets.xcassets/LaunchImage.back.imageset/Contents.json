@@ -1,0 +1,78 @@
+{
+  "images": [{
+      "filename": "Default320x480.png",
+      "idiom": "iphone",
+      "scale": "1x"
+    },
+    {
+      "filename": "Default640x960.png",
+      "idiom": "iphone",
+      "scale": "2x"
+    },
+    {
+      "filename": "Default1284x2778.png",
+      "idiom": "iphone",
+      "scale": "3x"
+    },
+    {
+      "idiom": "iphone",
+      "scale": "1x",
+      "subtype": "retina4"
+    },
+    {
+      "filename": "Default640x1136.png",
+      "idiom": "iphone",
+      "scale": "2x",
+      "subtype": "retina4"
+    },
+    {
+      "idiom": "iphone",
+      "scale": "3x",
+      "subtype": "retina4"
+    },
+    {
+      "filename": "Default1242x2208.png",
+      "idiom": "iphone",
+      "scale": "3x",
+      "subtype": "736h"
+    },
+    {
+      "filename": "Default750x1334.png",
+      "idiom": "iphone",
+      "scale": "2x",
+      "subtype": "667h"
+    },
+    {
+      "filename": "Default1125x2436.png",
+      "idiom": "iphone",
+      "scale": "3x",
+      "subtype": "2436h"
+    },
+    {
+      "filename": "Default1125x2436.png",
+      "idiom": "iphone",
+      "scale": "2x",
+      "subtype": "1792h"
+    },
+    {
+      "filename": "Default1125x2436.png",
+      "idiom": "iphone",
+      "scale": "3x",
+      "subtype": "2688h"
+    },
+    {
+      "filename": "Default768x1024.png",
+      "idiom": "ipad",
+      "scale": "1x"
+    },
+    {
+      "filename": "Default1536x2048.png",
+      "idiom": "ipad",
+      "scale": "2x"
+    }
+  ],
+  "info": {
+    "author": "xcode",
+    "version": 1
+  }
+}
